@@ -1,4 +1,5 @@
 def issymmetric(tree):
+    ''' This method checks if a tree is symmetric or not'''
     if not tree:
         return False
 
